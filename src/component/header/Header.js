@@ -29,7 +29,7 @@ function Header() {
   return (
     <Header_wrap className={`${isScrolled ? "active" : ""}`}>
       <Headerlayout>
-        <Link to="/" className="logo">
+        <Link to="/vieagem" className="logo">
           <svg width="176" height="51" viewBox="0 0 176 51" fill="none" xmlns="http://www.w3.org/2000/svg">
             <g clipPath="url(#clip0_413_328)">
               <path
