@@ -12,7 +12,7 @@ function Visual() {
       <div className="visual__wrap">
         <img src="images/main_bg.png" className="img-fluid rounded-top" alt="메인 비주얼" />
         <div className="visual__text_box">
-          <h3>비아젬 시그니처zzz</h3>
+          <h3>비아젬 시그니처</h3>
           <p>
             순수함과 영원함의 상징인 연꽃의 아름다움에서 영감을 받은 비아젬 연꽃컬렉션은
             <br /> 4개의 18K 화이트 골드 마이크로파베 다이아몬드 꽃잎이 라운드 브릴리언트 다이아몬드를 감싸며
