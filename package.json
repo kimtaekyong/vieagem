@@ -2,6 +2,7 @@
   "name": "vieagem",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kimtaekyong.github.io/vieagem/",
   "dependencies": {
     "@swiper/core": "^0.0.21",
     "@testing-library/jest-dom": "^5.17.0",
@@ -17,8 +18,7 @@
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.8",
     "swiper": "^11.0.7",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://kimtaekyong.github.io/vieagem"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
