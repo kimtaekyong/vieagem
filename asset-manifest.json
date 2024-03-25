@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vieagem/static/css/main.cb55938c.css",
-    "main.js": "/vieagem/static/js/main.3774414b.js",
+    "main.js": "/vieagem/static/js/main.681fb725.js",
     "static/js/453.18f6f384.chunk.js": "/vieagem/static/js/453.18f6f384.chunk.js",
     "static/media/Pretendard-Black.woff2": "/vieagem/static/media/Pretendard-Black.c2be1420d8fb4b99a671.woff2",
     "static/media/Pretendard-ExtraBold.woff2": "/vieagem/static/media/Pretendard-ExtraBold.26df84c2b3b8cb8a4b0c.woff2",
@@ -11,11 +11,11 @@
     "static/media/Pretendard-Thin.woff2": "/vieagem/static/media/Pretendard-Thin.bb7cedf4446fa24dda9d.woff2",
     "index.html": "/vieagem/index.html",
     "main.cb55938c.css.map": "/vieagem/static/css/main.cb55938c.css.map",
-    "main.3774414b.js.map": "/vieagem/static/js/main.3774414b.js.map",
+    "main.681fb725.js.map": "/vieagem/static/js/main.681fb725.js.map",
     "453.18f6f384.chunk.js.map": "/vieagem/static/js/453.18f6f384.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb55938c.css",
-    "static/js/main.3774414b.js"
+    "static/js/main.681fb725.js"
   ]
 }
