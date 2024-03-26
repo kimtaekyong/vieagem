@@ -83,28 +83,28 @@ const StyledSwiperSlide = styled(SwiperSlide)`
 const slides = [
   {
     id: 1,
-    backgroundImage: "/images/item_01.png",
+    backgroundImage: "images/item_01.png",
     name: "Finesse 링1",
     description: "시그니처 토글 잠금 디테일이 모티프로 사용된 제품1",
     link: "product1.html",
   },
   {
     id: 2,
-    backgroundImage: "/images/item_02.png",
+    backgroundImage: "images/item_02.png",
     name: "Finesse 링2",
     description: "시그니처 토글 잠금 디테일이 모티프로 사용된 제품2",
     link: "product2.html",
   },
   {
     id: 3,
-    backgroundImage: "/images/item_03.png",
+    backgroundImage: "images/item_03.png",
     name: "Finesse 링3",
     description: "시그니처 토글 잠금 디테일이 모티프로 사용된 제품3",
     link: "product3.html",
   },
   {
     id: 4,
-    backgroundImage: "/images/item_01.png",
+    backgroundImage: "images/item_01.png",
     name: "Finesse 링1",
     description: "시그니처 토글 잠금 디테일이 모티프로 사용된 제품4",
     link: "product1.html",
@@ -118,7 +118,7 @@ const slides = [
   },
   {
     id: 6,
-    backgroundImage: "/images/item_03.png",
+    backgroundImage: "images/item_03.png",
     name: "Finesse 링3",
     description: "시그니처 토글 잠금 디테일이 모티프로 사용된 제품6",
     link: "product3.html",
