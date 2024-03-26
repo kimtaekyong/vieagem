@@ -6,7 +6,7 @@ const Navigation_pc = styled.div`
   ul {
     display: flex;
     justify-content: center;
-    padding: 12px 0;
+    padding: 0 0 12px 0;
     gap: 2rem;
     a {
       color: #fff;
@@ -14,7 +14,7 @@ const Navigation_pc = styled.div`
       display: flex;
       height: 40px;
       align-items: center;
-      letter-spacing: 1px;
+      letter-spacing: -0.25px;
     }
   }
 `;
